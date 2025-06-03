@@ -17,21 +17,21 @@ This package includes the following `.xcframework` binaries:
 
 ## 📁 Folder Structure
 ```
-FFmpegKitSPM/\
-├── Package.swift\
-├── README.md\
-├── xcframeworks/\
-│ ├── ffmpegkit.xcframework\
-│ ├── libavcodec.xcframework\
-│ ├── libavdevice.xcframework\
-│ ├── libavfilter.xcframework\
-│ ├── libavformat.xcframework\
-│ ├── libavutil.xcframework\
-│ ├── libswresample.xcframework\
-│ └── libswscale.xcframework\
-└── Sources/\
-└── FFmpegWrapper/\
-└── dummy.swift\
+FFmpegKitSPM/
+├── Package.swift
+├── README.md
+├── xcframeworks/
+│ ├── ffmpegkit.xcframework
+│ ├── libavcodec.xcframework
+│ ├── libavdevice.xcframework
+│ ├── libavfilter.xcframework
+│ ├── libavformat.xcframework
+│ ├── libavutil.xcframework
+│ ├── libswresample.xcframework
+│ └── libswscale.xcframework
+└── Sources/
+    └── FFmpegWrapper/
+        └── dummy.swift
 ```
 
 ## ✅ Requirements
